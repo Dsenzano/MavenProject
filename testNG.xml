@@ -1,0 +1,16 @@
+<suite name="Test Suite">
+    <test name = "Test 1">
+      <classes>
+        <class name="io.techleadacademy.TestTags">
+            <methods>
+                <exclude name ="LogInPerformanceTest2"/>
+            </methods>
+        </class>
+      </classes>
+    </test>
+    <test name ="Smoke Test" enabled ="false">
+      <classes>
+        <class name="io.techleadacademy.TestingTestNG" enable = "false"/>
+       </classes>
+     </test>
+ </suite>

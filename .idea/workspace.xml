@@ -1,7 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1a90be7-df61-4474-8e7e-73552f5df8bb" name="Default Changelist" comment="" />
+    <list default="true" id="b1a90be7-df61-4474-8e7e-73552f5df8bb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_no_aop_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_7_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/io/techleadacademy/Jan12/DDT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/io/techleadacademy/OrangeNewsEdit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/io/techleadacademy/ReusableMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/io/techleadacademy/TestTags.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/io/techleadacademy/TestingTestNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test Suite/Test 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test Suite/Test 1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test Suite/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/bullet_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-io.techleadacademy.TestTags.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Test Suite/Test 1.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Test Suite/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Test Suite/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Test Suite/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Test Suite/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Test Suite/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Test Suite/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Test Suite/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Test Suite/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Test Suite/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Test Suite/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testNG.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testParameters.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MavenProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MavenProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/io/techleadacademy/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/io/techleadacademy/AppTest.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +80,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1VyxFOTqKAul1llSxtQxcAva0Iw" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -36,12 +90,35 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.MavenPractice">
-    <configuration name="MavenPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.techleadacademy.MavenPractice" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/danielsenzano/IdeaProjects/MavenProject/testNG.xml">
+    <configuration name="DDT" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MavenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.techleadacademy.Jan12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.techleadacademy.Jan12" />
+      <option name="MAIN_CLASS_NAME" value="io.techleadacademy.Jan12.DDT" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTags" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MavenProject" />
       <extension name="coverage">
         <pattern>
@@ -49,12 +126,16 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="io.techleadacademy" />
+      <option name="MAIN_CLASS_NAME" value="io.techleadacademy.TestTags" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.techleadacademy.TestData" />
+    <configuration name="TestTags.testUserName1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MavenProject" />
       <extension name="coverage">
         <pattern>
@@ -62,14 +143,58 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="io.techleadacademy" />
+      <option name="MAIN_CLASS_NAME" value="io.techleadacademy.TestTags" />
+      <option name="METHOD_NAME" value="testUserName1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="/Users/danielsenzano/IdeaProjects/MavenProject/testNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MavenProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testNG.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/danielsenzano/IdeaProjects/MavenProject/testParameters.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MavenProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testParameters.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG./Users/danielsenzano/IdeaProjects/MavenProject/testNG.xml" />
+      <item itemvalue="TestNG./Users/danielsenzano/IdeaProjects/MavenProject/testParameters.xml" />
+      <item itemvalue="TestNG.DDT" />
+      <item itemvalue="TestNG.TestTags" />
+      <item itemvalue="TestNG.TestTags.testUserName1" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MavenPractice" />
-        <item itemvalue="Application.TestData" />
+        <item itemvalue="TestNG./Users/danielsenzano/IdeaProjects/MavenProject/testNG.xml" />
+        <item itemvalue="TestNG./Users/danielsenzano/IdeaProjects/MavenProject/testParameters.xml" />
+        <item itemvalue="TestNG.TestTags" />
+        <item itemvalue="TestNG.TestTags.testUserName1" />
+        <item itemvalue="TestNG.DDT" />
       </list>
     </recent_temporary>
   </component>
@@ -98,30 +223,73 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="304" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578239891286">
+    <state x="304" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578843705196">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="304" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1578239891286" />
-    <state width="1638" height="260" key="GridCell.Tab.0.bottom" timestamp="1578252868340">
+    <state x="304" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1578843705196" />
+    <state x="551" y="335" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578770363370">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="260" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1578252868340" />
-    <state width="1638" height="260" key="GridCell.Tab.0.center" timestamp="1578252868339">
+    <state x="551" y="335" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1578770363370" />
+    <state x="456" y="51" key="CommitChangelistDialog2" timestamp="1578616226855">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="260" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1578252868339" />
-    <state width="1638" height="260" key="GridCell.Tab.0.left" timestamp="1578252868338">
+    <state x="456" y="51" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1578616226855" />
+    <state width="1638" height="260" key="GridCell.Tab.0.bottom" timestamp="1578846655134">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="260" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1578252868338" />
-    <state width="1638" height="260" key="GridCell.Tab.0.right" timestamp="1578252868339">
+    <state width="1638" height="260" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1578846655134" />
+    <state width="1638" height="260" key="GridCell.Tab.0.center" timestamp="1578846655133">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="260" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1578252868339" />
+    <state width="1638" height="260" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1578846655133" />
+    <state width="1638" height="260" key="GridCell.Tab.0.left" timestamp="1578846655132">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="260" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1578846655132" />
+    <state width="1638" height="260" key="GridCell.Tab.0.right" timestamp="1578846655133">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="260" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1578846655133" />
+    <state width="1638" height="325" key="GridCell.Tab.1.bottom" timestamp="1578842666876">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="325" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1578842666876" />
+    <state width="1638" height="325" key="GridCell.Tab.1.center" timestamp="1578842666875">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="325" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1578842666875" />
+    <state width="1638" height="325" key="GridCell.Tab.1.left" timestamp="1578842666875">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="325" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1578842666875" />
+    <state width="1638" height="325" key="GridCell.Tab.1.right" timestamp="1578842666876">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="325" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1578842666876" />
+    <state x="378" y="197" key="Maven.ArtifactSearchDialog" timestamp="1578841560477">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="378" y="197" key="Maven.ArtifactSearchDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1578841560477" />
+    <state x="500" y="368" key="com.intellij.ide.util.TipDialog" timestamp="1578442317406">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="500" y="368" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1578442317406" />
+    <state x="622" y="454" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578616221058">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="622" y="454" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.1027@0.23.1680.1027" timestamp="1578616221058" />
     <state x="217" y="113" key="new project wizard" timestamp="1578239653281">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="217" y="113" key="new project wizard/0.23.1680.1027@0.23.1680.1027" timestamp="1578239653281" />
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1578767637788">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1578767637788" />
   </component>
 </project>
